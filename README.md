@@ -28,8 +28,12 @@
 
 ---
 
-### 📊 GitHub Stats
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=jambou17&show_icons=true&theme=dark)
+<p align="center">
+<a href="https://github.com/jambou17">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jambou17l&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jambou17&layout=compact&langs_count=8&theme=synthwave"/>
+</a>
+</p>
 
 ---
 
