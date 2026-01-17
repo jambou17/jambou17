@@ -1,9 +1,12 @@
-## 👋 Olá, eu sou o Bruno!
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Tektur&size=25&pause=1000&color=2823BC&width=380&height=40&lines=Ol%C3%A1+!+Meu+nome+%C3%A9+Bruno+Othero;Bem-Vindo+ao+meu+prefil" alt="Typing SVG" />
+</div>
 
-🎓 Estudante de Analise e Desenvolvimento de Sistema
+---
 
-💻 Interessado em tecnologia, programação e engenharia  
-🚀 Em constante aprendizado
+- 🎓 Estudante de Analise e Desenvolvimento de Sistema
+- 💻 Interessado em tecnologia, programação e engenharia  
+- 🚀 Em constante aprendizado
 
 ---
 
